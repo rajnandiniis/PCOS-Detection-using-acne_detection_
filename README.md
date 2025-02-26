@@ -70,6 +70,4 @@ This project is a Streamlit-based web application that helps detect Polycystic O
 
 Contributions are welcome! Please open an issue or submit a pull request on GitHub.
 
-## License
 
-This project is licensed under the
